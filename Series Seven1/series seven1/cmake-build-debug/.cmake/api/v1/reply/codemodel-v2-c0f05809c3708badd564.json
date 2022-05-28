@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "series_seven4",
+					"name" : "series_seven1",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "series_seven4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-series_seven4-Debug-1949b0101557389dba7a.json",
-					"name" : "series_seven4",
+					"id" : "series_seven1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-series_seven1-Debug-5e7cd0e139a592186327.json",
+					"name" : "series_seven1",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/USER/Desktop/Series Seven4/series seven4/cmake-build-debug",
-		"source" : "C:/Users/USER/Desktop/Series Seven4/series seven4"
+		"build" : "C:/Users/USER/Desktop/C language/Series Seven/Series Seven1/series seven1/cmake-build-debug",
+		"source" : "C:/Users/USER/Desktop/C language/Series Seven/Series Seven1/series seven1"
 	},
 	"version" : 
 	{
