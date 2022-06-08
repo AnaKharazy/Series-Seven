@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Seven3/series seven3/cmake-build-debug/CMakeFiles/series_seven3.dir
+C:/Users/USER/Desktop/Series Seven3/series seven3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Series Seven3/series seven3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
